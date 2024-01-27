@@ -14,4 +14,4 @@ DTSA 5304 Final Project: Data Visualization on Democracy Index
 - Discussion and Conclusion
 
 ## Dataset
-Wikipedia: <https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series](https://en.wikipedia.org/wiki/The_Economist_Democracy_Index#Components)https://en.wikipedia.org/wiki/The_Economist_Democracy_Index#Components>
+Wikipedia: <https://en.wikipedia.org/wiki/The_Economist_Democracy_Index#Components)https://en.wikipedia.org/wiki/The_Economist_Democracy_Index#Components>
