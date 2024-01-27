@@ -4,13 +4,13 @@ DTSA 5304 Final Project: Data Visualization on Democracy Index
 
 ## Table of Contents
 1. Finding Your Data
-   1.1 Dataset - Global Democracy Index
+   - Dataset - Global Democracy Index
 2. Sketching Your Data
-   2.1 Import Library and Data
-   2.2 Visualizations
+   - Import Library and Data
+   - Visualizations
 3. Evaluation
-  3.1 Evaluation Approach
-  3.2 Evaluation Results
+  - Evaluation Approach
+  - Evaluation Results
 4. Discussion and Conclusion
 
 ## Dataset
