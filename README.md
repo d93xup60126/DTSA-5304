@@ -9,8 +9,8 @@ DTSA 5304 Final Project: Data Visualization on Democracy Index
    - Import Library and Data
    - Visualizations
 3. Evaluation
-  - Evaluation Approach
-  - Evaluation Results
+   - Evaluation Approach
+   - Evaluation Results
 4. Discussion and Conclusion
 
 ## Dataset
